@@ -40,5 +40,6 @@
     <languageCode>ru</languageCode>
   </languages>
   <catalogs>Catalog.Валюты</catalogs>
+  <catalogs>Catalog.Номенклатура</catalogs>
   <enums>Enum.ТипыСкладов</enums>
 </mdclass:Configuration>

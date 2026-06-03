@@ -26,4 +26,11 @@
       <value>Дополнительный</value>
     </synonym>
   </enumValues>
+  <enumValues uuid="acf1b1f7-95f8-4225-b32b-5d9cd164ba18">
+    <name>Розничный</name>
+    <synonym>
+      <key>ru</key>
+      <value>Розничный</value>
+    </synonym>
+  </enumValues>
 </mdclass:Enum>

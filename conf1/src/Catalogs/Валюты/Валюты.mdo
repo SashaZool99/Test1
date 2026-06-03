@@ -19,6 +19,24 @@
   <createOnInput>Use</createOnInput>
   <dataLockControlMode>Managed</dataLockControlMode>
   <fullTextSearch>Use</fullTextSearch>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Валюты</value>
+  </objectPresentation>
+  <extendedObjectPresentation>
+    <key>ru</key>
+    <value>Валюты</value>
+  </extendedObjectPresentation>
+  <listPresentation>
+    <key>ru</key>
+    <value>Валюты</value>
+  </listPresentation>
+  <extendedListPresentation>
+    <key>ru</key>
+    <value>Валюты</value>
+  </extendedListPresentation>
+  <dataHistory>Use</dataHistory>
+  <hierarchical>true</hierarchical>
   <levelCount>2</levelCount>
   <foldersOnTop>true</foldersOnTop>
   <codeLength>9</codeLength>
@@ -29,5 +47,16 @@
   <autonumbering>true</autonumbering>
   <defaultPresentation>AsDescription</defaultPresentation>
   <editType>InDialog</editType>
+  <quickChoice>true</quickChoice>
   <choiceMode>BothWays</choiceMode>
+  <defaultObjectForm>Catalog.Валюты.Form.ФормаЭлемента</defaultObjectForm>
+  <forms uuid="d74cc62b-5888-48c2-8c55-950270e10b48">
+    <name>ФормаЭлемента</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма элемента</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
 </mdclass:Catalog>

@@ -40,4 +40,5 @@
     <languageCode>ru</languageCode>
   </languages>
   <catalogs>Catalog.Валюты</catalogs>
+  <catalogs>Catalog.ЕдиницыИзмерения</catalogs>
 </mdclass:Configuration>

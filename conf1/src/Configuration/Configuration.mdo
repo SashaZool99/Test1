@@ -40,5 +40,7 @@
     <languageCode>ru</languageCode>
   </languages>
   <catalogs>Catalog.Валюты</catalogs>
+  <catalogs>Catalog.ДоговорыКонтрагентов</catalogs>
   <catalogs>Catalog.Контрагенты</catalogs>
+  <catalogs>Catalog.Проекты</catalogs>
 </mdclass:Configuration>

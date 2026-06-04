@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="5026d3e1-e119-4c83-a3cd-067becf9f20b">
+  <producedTypes>
+    <objectType typeId="8ca16bb8-6f53-4f10-8bb5-069da2bb008e" valueTypeId="3305f185-8ded-4b82-9828-61981eb39f8b"/>
+    <managerType typeId="851dcaf1-e211-4ddc-9552-f06b5e2ac778" valueTypeId="5a7f7947-ef38-4804-87ef-f1de2e0fa326"/>
+  </producedTypes>
+  <name>Кросс_таблица</name>
+  <synonym>
+    <key>ru</key>
+    <value>Кросс таблица</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.Кросс_таблица.Form.Форма1</defaultForm>
+  <forms uuid="a6b38e7a-5ef4-4cb1-b41e-ab1fe90730ff">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <formType>Ordinary</formType>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="4e5bf6f5-c0a9-4f4c-affb-8b8c6873f584">
+    <name>Форма1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма1</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="39c2db7e-cadd-4770-93b4-19860888bd0e">
+    <name>Макет</name>
+    <synonym>
+      <key>ru</key>
+      <value>Макет</value>
+    </synonym>
+  </templates>
+</mdclass:DataProcessor>

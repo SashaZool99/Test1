@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="0a8b8902-daf6-40e5-a656-210aba56f3f2">
+  <producedTypes>
+    <objectType typeId="4b080c3c-80ab-44c7-b4b9-6b1861b10234" valueTypeId="805c5c2d-f8f2-4e54-b04e-2ef935516cc6"/>
+    <refType typeId="fea8d0e4-f3fe-4bd9-bfe7-415ccb4d7dfb" valueTypeId="80f8b31d-d756-4782-8c62-6a7da815ca00"/>
+    <selectionType typeId="308e779d-cc23-402e-9b90-d473f928684c" valueTypeId="d7a2a45c-a493-4242-ba42-8fd98eb5c3ef"/>
+    <listType typeId="3ea820ac-5ab3-4d44-b0ba-4d3c96b1cedb" valueTypeId="8fb0e302-ba4d-45af-9ebc-7624b0bd8f7b"/>
+    <managerType typeId="6e9cea92-14ed-41de-896f-45447c36e197" valueTypeId="1a9e2eb9-0eef-41b7-b055-28eef7eee2a2"/>
+  </producedTypes>
+  <name>ДоговорыКонтрагентов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Договоры контрагентов</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.ДоговорыКонтрагентов.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.ДоговорыКонтрагентов.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <hierarchical>true</hierarchical>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <owners>Catalog.Контрагенты</owners>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+  <attributes uuid="d34a3990-3a9a-4297-bc56-ac0a5dba2c85">
+    <name>Контрагент</name>
+    <synonym>
+      <key>ru</key>
+      <value>Контрагент</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Контрагенты</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <choiceParameterLinks>
+      <name>Отбор.ИмяПредопределенныхДанных</name>
+      <field>Catalog.ДоговорыКонтрагентов.StandardAttribute.Owner</field>
+    </choiceParameterLinks>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+</mdclass:Catalog>

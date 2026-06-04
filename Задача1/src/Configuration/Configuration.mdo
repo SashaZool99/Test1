@@ -40,9 +40,9 @@
     <languageCode>ru</languageCode>
   </languages>
   <subsystems>Subsystem.НСИ</subsystems>
+  <subsystems>Subsystem.Склад</subsystems>
   <subsystems>Subsystem.Отчеты</subsystems>
   <subsystems>Subsystem.Сервис</subsystems>
-  <subsystems>Subsystem.Склад</subsystems>
   <catalogs>Catalog.Валюты</catalogs>
   <catalogs>Catalog.ДоговорыКонтрагентов</catalogs>
   <catalogs>Catalog.ЕдиницыИзмерения</catalogs>
@@ -53,7 +53,7 @@
   <documents>Document.ПриходныйОрдерНаТовары</documents>
   <documents>Document.РасходныйОрдерНаТовары</documents>
   <enums>Enum.ТипыСкладов</enums>
-  <dataProcessors>DataProcessor.ИнструментыРазработчикаКонсольЗапросов</dataProcessors>
   <dataProcessors>DataProcessor.Кросс_таблица</dataProcessors>
+  <dataProcessors>DataProcessor.ИнструментыРазработчикаКонсольЗапросов</dataProcessors>
   <accumulationRegisters>AccumulationRegister.ОстаткиТовары</accumulationRegisters>
 </mdclass:Configuration>

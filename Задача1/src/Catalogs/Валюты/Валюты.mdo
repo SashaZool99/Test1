@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="76c8b148-33a8-462c-b672-0d9744cd8143">
+  <producedTypes>
+    <objectType typeId="e3e0540d-3cf4-4cf1-a498-4661ee06148e" valueTypeId="f0b793e1-0455-402b-b5c4-8f5dbe1f82da"/>
+    <refType typeId="471cbe70-bcd2-4c45-87e9-30c49d47644b" valueTypeId="339ad39c-5758-400b-bbf7-420f44218ff9"/>
+    <selectionType typeId="662b8640-8f4c-4237-b84e-a0bc1968eaf6" valueTypeId="39c02484-0ee2-435b-8da0-b9d2175df593"/>
+    <listType typeId="ac0d6070-6f23-4e09-92a1-b58e9e17d253" valueTypeId="7e5c4b4c-9a37-4a23-a24f-a9996148bc2d"/>
+    <managerType typeId="18190537-6b7a-4c5b-ae36-137e25ef8217" valueTypeId="e4bb9b93-e45b-4136-864c-8700c782dba8"/>
+  </producedTypes>
+  <name>Валюты</name>
+  <synonym>
+    <key>ru</key>
+    <value>Валюты</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Валюты.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Валюты.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Валюты</value>
+  </objectPresentation>
+  <extendedObjectPresentation>
+    <key>ru</key>
+    <value>Валюты</value>
+  </extendedObjectPresentation>
+  <listPresentation>
+    <key>ru</key>
+    <value>Валюты</value>
+  </listPresentation>
+  <extendedListPresentation>
+    <key>ru</key>
+    <value>Валюты</value>
+  </extendedListPresentation>
+  <dataHistory>Use</dataHistory>
+  <hierarchical>true</hierarchical>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <defaultObjectForm>Catalog.Валюты.Form.ФормаЭлемента</defaultObjectForm>
+  <forms uuid="d74cc62b-5888-48c2-8c55-950270e10b48">
+    <name>ФормаЭлемента</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма элемента</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:Catalog>

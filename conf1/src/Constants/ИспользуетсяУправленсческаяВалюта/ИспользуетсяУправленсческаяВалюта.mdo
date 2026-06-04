@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e44a4046-84b9-4636-94f4-f5e506ed8c86">
+  <producedTypes>
+    <managerType typeId="d1b20db8-67a1-423b-bf61-bd38720868f3" valueTypeId="79044971-04f0-4e59-b892-959bc943fa7d"/>
+    <valueManagerType typeId="f532bf86-7eb3-4b0f-bf11-291ddf3ebfed" valueTypeId="9771d583-2714-4e54-88ac-92b302b3d642"/>
+    <valueKeyType typeId="f58786a1-3bf2-49b7-b44c-cf1e7c81d143" valueTypeId="a77ed9cc-88f4-4176-8af5-1303af42b5a9"/>
+  </producedTypes>
+  <name>ИспользуетсяУправленсческаяВалюта</name>
+  <synonym>
+    <key>ru</key>
+    <value>Используется управленсческая валюта</value>
+  </synonym>
+  <type>
+    <types>Boolean</types>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

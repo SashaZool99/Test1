@@ -33,4 +33,11 @@
       <value>Розничный</value>
     </synonym>
   </enumValues>
+  <enumValues uuid="828d22c6-7b3e-49b5-81c3-8e5a630f5855">
+    <name>Оптовый</name>
+    <synonym>
+      <key>ru</key>
+      <value>Оптовый</value>
+    </synonym>
+  </enumValues>
 </mdclass:Enum>

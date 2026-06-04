@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:AccumulationRegister xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="db74d005-a35c-4955-8c14-08e7c2cef57f">
+  <producedTypes>
+    <selectionType typeId="abf25b6f-daf6-456d-b796-fe9a758996ce" valueTypeId="3f83bdbc-0fcd-45dd-91f3-cb8bd2abf122"/>
+    <listType typeId="ff0306be-ac84-43e9-923d-d7c015f16528" valueTypeId="8980209e-527c-4a58-83a6-bbd6d3ec1b64"/>
+    <managerType typeId="eff2daa8-9eae-40a7-a07d-3fe35bcdac56" valueTypeId="58236fe6-cf49-4941-9bda-cf5906c0ca48"/>
+    <recordSetType typeId="8473f164-80e6-418c-bdde-25973b3608d6" valueTypeId="4583156a-159e-4af9-a9fe-67ac3380a13a"/>
+    <recordKeyType typeId="0b11cffd-a1d5-45c2-880b-292ebc86253f" valueTypeId="8242e4d9-2924-4840-8ea3-c675e78afbeb"/>
+    <recordType typeId="7bb2be0f-7422-40a7-ae3b-b1bedf2014d3" valueTypeId="f3735212-03ae-4d82-854b-fb0bd82aa78d"/>
+  </producedTypes>
+  <name>ОстаткиТовары</name>
+  <synonym>
+    <key>ru</key>
+    <value>Остатки товары</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <enableTotalsSplitting>true</enableTotalsSplitting>
+</mdclass:AccumulationRegister>

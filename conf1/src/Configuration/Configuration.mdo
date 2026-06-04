@@ -43,6 +43,7 @@
   <subsystems>Subsystem.Отчеты</subsystems>
   <subsystems>Subsystem.Сервис</subsystems>
   <subsystems>Subsystem.Склад</subsystems>
+  <constants>Constant.ИспользуютсяОрдерныеСклады</constants>
   <catalogs>Catalog.Валюты</catalogs>
   <catalogs>Catalog.ДоговорыКонтрагентов</catalogs>
   <catalogs>Catalog.ЕдиницыИзмерения</catalogs>

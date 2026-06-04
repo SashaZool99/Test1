@@ -39,11 +39,17 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <subsystems>Subsystem.НСИ</subsystems>
+  <subsystems>Subsystem.Склад</subsystems>
   <catalogs>Catalog.Валюты</catalogs>
   <catalogs>Catalog.ДоговорыКонтрагентов</catalogs>
   <catalogs>Catalog.ЕдиницыИзмерения</catalogs>
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Проекты</catalogs>
+  <catalogs>Catalog.Склады</catalogs>
+  <documents>Document.ПриходныйОрдерНаТовары</documents>
+  <documents>Document.РасходныйОрдерНаТовары</documents>
   <enums>Enum.ТипыСкладов</enums>
+  <accumulationRegisters>AccumulationRegister.ОстаткиТовары</accumulationRegisters>
 </mdclass:Configuration>

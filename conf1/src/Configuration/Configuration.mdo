@@ -41,6 +41,9 @@
   </languages>
   <catalogs>Catalog.Валюты</catalogs>
   <catalogs>Catalog.ДоговорыКонтрагентов</catalogs>
+  <catalogs>Catalog.ЕдиницыИзмерения</catalogs>
   <catalogs>Catalog.Контрагенты</catalogs>
+  <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Проекты</catalogs>
+  <enums>Enum.ТипыСкладов</enums>
 </mdclass:Configuration>

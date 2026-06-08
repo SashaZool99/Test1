@@ -8,4 +8,5 @@
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>DataProcessor.ИнструментыРазработчикаКонсольЗапросов</content>
+  <content>DataProcessor.УКО_УправляемаяКонсольОтчетов</content>
 </mdclass:Subsystem>

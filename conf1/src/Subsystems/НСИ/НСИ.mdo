@@ -14,4 +14,5 @@
   <content>Catalog.Номенклатура</content>
   <content>Catalog.Проекты</content>
   <content>Catalog.Склады</content>
+  <content>Catalog.Штрихкоды</content>
 </mdclass:Subsystem>

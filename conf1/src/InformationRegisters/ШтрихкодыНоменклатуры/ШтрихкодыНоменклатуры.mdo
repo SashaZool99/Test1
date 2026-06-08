@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:InformationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="9f627890-bca5-425e-90f2-dddec67b535b">
+  <producedTypes>
+    <selectionType typeId="7c5ef062-3cbe-45db-9f1a-6d606312ff42" valueTypeId="6002d7ba-bbed-4d59-b83b-3630b48fbb16"/>
+    <listType typeId="536c8f06-dbd2-45f2-9c70-17874fdc1976" valueTypeId="6a2ce87b-b46e-4969-9653-79858a5e3424"/>
+    <managerType typeId="28e47cf0-eff2-4993-bed1-b0ab90fab270" valueTypeId="e25e4cf2-f2cd-45fc-8a53-f1c9540f4d13"/>
+    <recordSetType typeId="4c9eae95-14af-4b99-b366-d2edc59a79f3" valueTypeId="b7b8e947-c545-4a27-8914-6c455d1ea8e4"/>
+    <recordKeyType typeId="c8e85dd3-e426-4153-96ca-3c6496e1a73e" valueTypeId="ccbc73f5-06b0-4ea0-a605-00682aa5f22f"/>
+    <recordType typeId="607c8b4d-bbf1-48f1-9424-65c01b811786" valueTypeId="d78e8cc1-3c6c-45cf-8608-ca0209660757"/>
+    <recordManagerType typeId="f9b99507-5a7b-41a6-9789-55f44ff30b18" valueTypeId="fea37c74-2865-439e-b626-6386aa7a14bc"/>
+  </producedTypes>
+  <name>ШтрихкодыНоменклатуры</name>
+  <synonym>
+    <key>ru</key>
+    <value>Штрихкоды номенклатуры</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <editType>InDialog</editType>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <resources uuid="aba724e5-c6d9-450c-a0eb-80a2ed79c810">
+    <name>Штрихкод</name>
+    <synonym>
+      <key>ru</key>
+      <value>Штрихкод</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Штрихкоды</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+  </resources>
+  <dimensions uuid="2932ef57-6ff9-4368-9f05-b5c765bd5ab3">
+    <name>Номенклатура</name>
+    <synonym>
+      <key>ru</key>
+      <value>Номенклатура</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Номенклатура</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <mainFilter>true</mainFilter>
+  </dimensions>
+</mdclass:InformationRegister>

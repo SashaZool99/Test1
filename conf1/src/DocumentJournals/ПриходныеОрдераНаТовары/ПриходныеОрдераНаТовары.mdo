@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DocumentJournal xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4e7955d0-b4c1-4ec3-80d8-fba581683bb9">
+  <producedTypes>
+    <selectionType typeId="3b48ebab-baf5-413b-ada2-ae7ca176f510" valueTypeId="a98c7bfa-905d-4715-85af-516398913e8f"/>
+    <listType typeId="e112bb7e-d8f0-49c0-a857-317aef50affb" valueTypeId="b80caad2-0bcb-4ab9-90b2-afd12c1f11cd"/>
+    <managerType typeId="344dcd82-9065-4cf6-90e8-3866570998d1" valueTypeId="eb154276-57e7-4d5f-b63e-dfa8a72bebee"/>
+  </producedTypes>
+  <name>ПриходныеОрдераНаТовары</name>
+  <synonym>
+    <key>ru</key>
+    <value>Приходные ордера на товары</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <registeredDocuments>Document.ПриходныйОрдерНаТовары</registeredDocuments>
+</mdclass:DocumentJournal>

@@ -54,6 +54,7 @@
   <catalogs>Catalog.Склады</catalogs>
   <documents>Document.ПриходныйОрдерНаТовары</documents>
   <documents>Document.РасходныйОрдерНаТовары</documents>
+  <documentJournals>DocumentJournal.ПриходныеОрдераНаТовары</documentJournals>
   <enums>Enum.ТипыСкладов</enums>
   <enums>Enum.ВидыНоменклатуры</enums>
   <enums>Enum.ВидыКонтрагентов</enums>

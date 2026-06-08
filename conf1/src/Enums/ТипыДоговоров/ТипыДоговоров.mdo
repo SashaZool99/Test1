@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6493999d-a749-4114-8328-73f7f17d5fad">
+  <producedTypes>
+    <refType typeId="8a2495ca-66aa-423f-9ae9-74e939cd963e" valueTypeId="25807a6f-aa74-4793-94a7-8057bf1aeccf"/>
+    <listType typeId="13b558e0-0fdd-4752-925d-fcce0e31c4b0" valueTypeId="dcb2d21f-8f5a-47c3-8359-75887efb0b66"/>
+    <managerType typeId="57487c75-20f7-41a0-b8d8-ac40c6a6ce5c" valueTypeId="52b327d7-fee1-4103-b45c-8d39f8881303"/>
+  </producedTypes>
+  <name>ТипыДоговоров</name>
+  <synonym>
+    <key>ru</key>
+    <value>Типы договоров</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="8938008b-1529-48e5-aa1d-4faef53dee10">
+    <name>ДоговорАренды</name>
+    <synonym>
+      <key>ru</key>
+      <value>Договор аренды</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="4ceb18e2-75e3-491e-b38d-f280f85b328e">
+    <name>КредитныйДоговор</name>
+    <synonym>
+      <key>ru</key>
+      <value>Кредитный договор</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="58f507d5-eec6-49a6-9121-27aa2fd3b9fe">
+    <name>КоммерческийДоговор</name>
+    <synonym>
+      <key>ru</key>
+      <value>Коммерческий договор</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="2639ca5a-fe64-4c65-bf50-4d83bb2a67be">
+  <producedTypes>
+    <objectType typeId="001f4719-7fdb-4377-9107-89fcbff7efc8" valueTypeId="e60e5f2c-7379-4130-a8f7-facd09eb89e2"/>
+    <refType typeId="e8dfeaee-70f2-4089-bdaf-3a90cd4cf749" valueTypeId="56c555a8-98fb-4e20-8753-6956a21bfe2a"/>
+    <selectionType typeId="d7c9c061-a7e3-4fbf-be8b-6320797a3252" valueTypeId="08b8ddc8-250b-419b-b47d-0a7417b33a15"/>
+    <listType typeId="ff20cf3a-23cb-41d1-b771-a852c046a2a1" valueTypeId="cf4f8b2f-bf7d-4edf-b2a7-e79dbbbe24ff"/>
+    <managerType typeId="99dcc27c-bbc8-45e3-9ec0-865ea0a41577" valueTypeId="d09aefb4-62d3-43c4-9854-888ac2af2f01"/>
+  </producedTypes>
+  <name>Штрихкоды</name>
+  <synonym>
+    <key>ru</key>
+    <value>Штрихкоды</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Штрихкоды.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Штрихкоды.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

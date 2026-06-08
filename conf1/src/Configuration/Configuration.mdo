@@ -52,6 +52,7 @@
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Проекты</catalogs>
   <catalogs>Catalog.Склады</catalogs>
+  <catalogs>Catalog.Штрихкоды</catalogs>
   <documents>Document.ПриходныйОрдерНаТовары</documents>
   <documents>Document.РасходныйОрдерНаТовары</documents>
   <documentJournals>DocumentJournal.ПриходныеОрдераНаТовары</documentJournals>
@@ -64,5 +65,6 @@
   <dataProcessors>DataProcessor.Кросс_таблица</dataProcessors>
   <dataProcessors>DataProcessor.ИнструментыРазработчикаКонсольЗапросов</dataProcessors>
   <dataProcessors>DataProcessor.УКО_УправляемаяКонсольОтчетов</dataProcessors>
+  <informationRegisters>InformationRegister.ШтрихкодыНоменклатуры</informationRegisters>
   <accumulationRegisters>AccumulationRegister.ОстаткиТовары</accumulationRegisters>
 </mdclass:Configuration>

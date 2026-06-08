@@ -56,6 +56,7 @@
   <documents>Document.РасходныйОрдерНаТовары</documents>
   <enums>Enum.ТипыСкладов</enums>
   <enums>Enum.ВидыНоменклатуры</enums>
+  <enums>Enum.ВидыКонтрагентов</enums>
   <dataProcessors>DataProcessor.Кросс_таблица</dataProcessors>
   <dataProcessors>DataProcessor.ИнструментыРазработчикаКонсольЗапросов</dataProcessors>
   <dataProcessors>DataProcessor.УКО_УправляемаяКонсольОтчетов</dataProcessors>

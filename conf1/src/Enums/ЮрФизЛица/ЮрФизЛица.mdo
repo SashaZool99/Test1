@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="42d3c499-527f-491b-ab08-d4c2464c2e66">
+  <producedTypes>
+    <refType typeId="3def06f1-5d6c-49e2-bc0c-af25a21555cf" valueTypeId="24f5b85e-129d-4290-89cb-93796fbf1e58"/>
+    <listType typeId="847c895b-aed6-40ea-887b-75b255ac6cd8" valueTypeId="374d99a6-a742-433c-af02-412ed9434840"/>
+    <managerType typeId="b2e7d6c8-6ec3-425e-bdb5-e8f74a2bfeab" valueTypeId="d3d3f626-87ab-4aca-87d2-fe7fda0b9dd3"/>
+  </producedTypes>
+  <name>ЮрФизЛица</name>
+  <synonym>
+    <key>ru</key>
+    <value>Юр физ лица</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="34bbbee1-18bc-4474-8cfb-08ccc26a49be">
+    <name>ЮрЛицо</name>
+    <synonym>
+      <key>ru</key>
+      <value>Юр лицо</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="81f6cc8a-4544-48e1-bc37-978c1bdf0f34">
+    <name>ФизЛицо</name>
+    <synonym>
+      <key>ru</key>
+      <value>Физ лицо</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>

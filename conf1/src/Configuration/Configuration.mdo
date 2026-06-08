@@ -58,6 +58,8 @@
   <enums>Enum.ВидыНоменклатуры</enums>
   <enums>Enum.ВидыКонтрагентов</enums>
   <enums>Enum.ТипыДоговоров</enums>
+  <enums>Enum.ЮрФизЛица</enums>
+  <enums>Enum.ТипыСвязиСКонтактами</enums>
   <dataProcessors>DataProcessor.Кросс_таблица</dataProcessors>
   <dataProcessors>DataProcessor.ИнструментыРазработчикаКонсольЗапросов</dataProcessors>
   <dataProcessors>DataProcessor.УКО_УправляемаяКонсольОтчетов</dataProcessors>

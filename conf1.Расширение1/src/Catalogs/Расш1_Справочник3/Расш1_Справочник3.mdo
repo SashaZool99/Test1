@@ -66,6 +66,42 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="a55a42fd-ec34-4b49-84cb-b54977ec44a8">
+    <name>Реквизит3</name>
+    <synonym>
+      <key>ru</key>
+      <value>Реквизит3</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:StringValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="f76f651f-4f9a-4e19-85c8-a2b691a6e544">
+    <name>Реквизит4</name>
+    <synonym>
+      <key>ru</key>
+      <value>Реквизит4</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:StringValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <tabularSections uuid="572cbf73-cf62-461c-86a7-6fcd1b178ddc">
     <producedTypes>
       <objectType typeId="ff0ed275-f861-405d-97ec-bae92588dc6f" valueTypeId="fa56571e-ba5c-4e24-b9a3-d3fdce495c52"/>
@@ -98,6 +134,40 @@
       <synonym>
         <key>ru</key>
         <value>Реквизит2</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>10</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="d4632b2b-35ec-4e7e-8aa7-cc74e5e3ffb5">
+      <name>Реквизит3</name>
+      <synonym>
+        <key>ru</key>
+        <value>Реквизит3</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>10</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="7a0ea328-95ad-4113-9e3c-daaf833340db">
+      <name>Реквизит4</name>
+      <synonym>
+        <key>ru</key>
+        <value>Реквизит4</value>
       </synonym>
       <type>
         <types>String</types>

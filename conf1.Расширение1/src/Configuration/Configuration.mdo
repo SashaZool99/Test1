@@ -42,4 +42,5 @@
   <roles>Role.Расш1_ОсновнаяРоль</roles>
   <catalogs>Catalog.Расш1_Справочник1</catalogs>
   <catalogs>Catalog.Расш1_Справочник2</catalogs>
+  <catalogs>Catalog.Расш1_Справочник3</catalogs>
 </mdclass:Configuration>

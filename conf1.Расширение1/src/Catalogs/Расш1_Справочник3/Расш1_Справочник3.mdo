@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="23d2e4f6-a9c9-41a3-af4e-32b222b2df37">
+  <producedTypes>
+    <objectType typeId="74fa971f-a8c0-4f87-a859-74ef8173e2cc" valueTypeId="bf69931e-432f-4958-af56-c449e30cc713"/>
+    <refType typeId="2101d1c1-80d8-4dee-9e59-875364611d53" valueTypeId="a969154b-72e8-4daf-a4d1-c7e94159b08a"/>
+    <selectionType typeId="193c9cc5-051d-46ba-adf3-b2a68b9589b9" valueTypeId="b008790b-06f2-4ecd-9423-a5fce576edf2"/>
+    <listType typeId="f75214a5-b3df-4712-8283-e96151ace948" valueTypeId="0e5f94f1-6da8-4abd-9777-feafcbcc67e0"/>
+    <managerType typeId="fcbd9138-227b-43ce-af29-c9b623e3c275" valueTypeId="2e7f0cc1-c1c1-4d57-8d09-e2376a1698d4"/>
+  </producedTypes>
+  <name>Расш1_Справочник3</name>
+  <synonym>
+    <key>ru</key>
+    <value>Справочник3</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Расш1_Справочник3.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Расш1_Справочник3.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+  <defaultObjectForm>Catalog.Расш1_Справочник3.Form.ФормаЭлемента</defaultObjectForm>
+  <attributes uuid="0ca63011-7612-40d2-bbf0-c2dc2e3e299e">
+    <name>Реквизит1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Реквизит1</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:StringValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="6835d1d5-9d56-43ee-9bcb-180630190f95">
+    <name>Реквизит2</name>
+    <synonym>
+      <key>ru</key>
+      <value>Реквизит2</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:StringValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <tabularSections uuid="572cbf73-cf62-461c-86a7-6fcd1b178ddc">
+    <producedTypes>
+      <objectType typeId="ff0ed275-f861-405d-97ec-bae92588dc6f" valueTypeId="fa56571e-ba5c-4e24-b9a3-d3fdce495c52"/>
+      <rowType typeId="28095634-419c-452e-bde9-6ba52fb0aef3" valueTypeId="144d6ac1-72e9-41f7-81a6-3db91964a5b7"/>
+    </producedTypes>
+    <name>ТабличнаяЧасть1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Табличная часть1</value>
+    </synonym>
+    <attributes uuid="9dcd2c58-1f64-44cd-bf09-2b954bf05e3a">
+      <name>Реквизит1</name>
+      <synonym>
+        <key>ru</key>
+        <value>Реквизит1</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>10</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="3f6d5133-edd2-458b-aac4-4776e5486706">
+      <name>Реквизит2</name>
+      <synonym>
+        <key>ru</key>
+        <value>Реквизит2</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>10</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <lineNumberLength>9</lineNumberLength>
+  </tabularSections>
+  <forms uuid="50b666af-f29d-4ac3-96d3-e6bd4eb0f0e1">
+    <name>ФормаЭлемента</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма элемента</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:Catalog>

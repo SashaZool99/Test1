@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="bb0d4e80-d779-45f7-abb3-b81d3e565e12">
+<mdclass:DataProcessor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="bb0d4e80-d779-45f7-abb3-b81d3e565e12">
   <producedTypes>
     <objectType typeId="c12ea910-9ee3-49c8-b71a-46e76eb4fad0" valueTypeId="1d9cec6a-4d1d-4a72-8328-4cef9932b312"/>
     <managerType typeId="f1425889-f7cb-4f22-b821-d3ae2f5eb1e7" valueTypeId="55d85f62-8824-4855-b49b-e07e2d7f008a"/>
@@ -10,4 +10,34 @@
     <value>Обработка1</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
+  <attributes uuid="bb700954-a4a0-41ac-b18f-99a1ef8ce348">
+    <name>Реквизит1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Реквизит1</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
+  <attributes uuid="3a05dda0-06e9-429d-b173-edfb31825c5d">
+    <name>Реквизит2</name>
+    <synonym>
+      <key>ru</key>
+      <value>Реквизит2</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
 </mdclass:DataProcessor>

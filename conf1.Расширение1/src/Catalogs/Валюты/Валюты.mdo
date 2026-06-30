@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="d3406916-04a6-49af-830b-0bcac5197dcc" extendedConfigurationObject="76c8b148-33a8-462c-b672-0d9744cd8143">
+  <producedTypes>
+    <objectType typeId="e9fdaf03-086a-4691-bb39-f0bd03a6ba29" valueTypeId="bb03fc10-b6dc-4c0c-8b65-c6bfcc61a40f"/>
+    <refType typeId="d4f81e38-ae8f-438f-a6e7-24cbfb8855d7" valueTypeId="6ce17b13-4f95-4664-9652-4f141aaaf357"/>
+    <selectionType typeId="c5be8c57-a326-484c-bf69-a44ff57537c9" valueTypeId="41e6aaa1-42b0-4bc7-95d7-d5506b0a1c9d"/>
+    <listType typeId="f434f7f8-604c-4736-a22a-06685c35aba7" valueTypeId="8ed1ddb3-0b39-49b6-b984-706b40346a04"/>
+    <managerType typeId="33c95be5-6ae1-4caa-9d58-285a4967e178" valueTypeId="c2e713d7-a06c-4e89-9fc4-2a54bc33b88b"/>
 <mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="db081157-8b11-4569-b228-6d34e8e60329" extendedConfigurationObject="76c8b148-33a8-462c-b672-0d9744cd8143">
   <producedTypes>
     <objectType typeId="9f070d7d-1f54-42ef-bf05-4cd490659f57" valueTypeId="1f6214e4-4d28-4310-b96e-d6d2fde67d94"/>

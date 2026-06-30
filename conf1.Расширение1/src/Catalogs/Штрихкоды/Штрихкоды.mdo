@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="bc9cae10-eae1-4ebb-b704-160f8bc003c7" extendedConfigurationObject="2639ca5a-fe64-4c65-bf50-4d83bb2a67be">
+  <producedTypes>
+    <objectType typeId="364274f5-2c5c-417e-884a-69e4277d636a" valueTypeId="889910db-48ec-4247-8bbb-81fa90f0fe0b"/>
+    <refType typeId="2040efee-d7fd-4f48-b4fb-8b3638700ac5" valueTypeId="de426dea-9ef3-4683-bd4e-cb2fda959949"/>
+    <selectionType typeId="2699cdfb-2723-4c7d-95da-21cea6821762" valueTypeId="443f291b-abfd-4e22-b491-986989708958"/>
+    <listType typeId="96261fac-93f7-497f-a584-118f01485bba" valueTypeId="4fde55ff-a67b-4b97-bad8-e1cbf8c7972d"/>
+    <managerType typeId="af901856-e297-4c3e-b53e-a08209fb68c1" valueTypeId="b44f1c7c-9d2c-42f4-8c2b-4ed3f379b220"/>
+  </producedTypes>
+  <name>Штрихкоды</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+  </extension>
+  <useStandardCommands>true</useStandardCommands>
+  <checkUnique>true</checkUnique>
+</mdclass:Catalog>

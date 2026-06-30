@@ -6,6 +6,13 @@
     <selectionType typeId="c5be8c57-a326-484c-bf69-a44ff57537c9" valueTypeId="41e6aaa1-42b0-4bc7-95d7-d5506b0a1c9d"/>
     <listType typeId="f434f7f8-604c-4736-a22a-06685c35aba7" valueTypeId="8ed1ddb3-0b39-49b6-b984-706b40346a04"/>
     <managerType typeId="33c95be5-6ae1-4caa-9d58-285a4967e178" valueTypeId="c2e713d7-a06c-4e89-9fc4-2a54bc33b88b"/>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="db081157-8b11-4569-b228-6d34e8e60329" extendedConfigurationObject="76c8b148-33a8-462c-b672-0d9744cd8143">
+  <producedTypes>
+    <objectType typeId="9f070d7d-1f54-42ef-bf05-4cd490659f57" valueTypeId="1f6214e4-4d28-4310-b96e-d6d2fde67d94"/>
+    <refType typeId="343e7f2c-4856-4081-be48-ddf5d2303dbf" valueTypeId="ab3d1c1c-c71b-4800-b56b-8357730da471"/>
+    <selectionType typeId="52d83407-a982-4fe1-8006-b181441b1568" valueTypeId="6c34a6d7-c559-4759-b30e-c1dd766af53c"/>
+    <listType typeId="b516b072-5513-430c-9b90-ed49c4deefaa" valueTypeId="1411fe8a-8cbf-4592-901c-3718d6bc8038"/>
+    <managerType typeId="1601feea-e062-48e5-88dc-1badb6f46af0" valueTypeId="7049d692-94b3-41a6-9b31-2d1b364f31ef"/>
   </producedTypes>
   <name>Валюты</name>
   <objectBelonging>Adopted</objectBelonging>

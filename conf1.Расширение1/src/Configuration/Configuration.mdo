@@ -48,6 +48,7 @@
   <catalogs>Catalog.Расш1_Справочник4</catalogs>
   <catalogs>Catalog.Расш1_Справочник5</catalogs>
   <catalogs>Catalog.Валюты</catalogs>
+  <catalogs>Catalog.Склады</catalogs>
   <documents>Document.Расш1_Документ1</documents>
   <dataProcessors>DataProcessor.Расш1_Обработка1</dataProcessors>
 </mdclass:Configuration>

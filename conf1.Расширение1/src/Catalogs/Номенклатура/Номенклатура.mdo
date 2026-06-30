@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="5b7a7015-4f6f-4b47-ba53-8a7633bf9553" extendedConfigurationObject="9c30cca1-d31e-4148-8812-706d0f3f04e7">
+  <producedTypes>
+    <objectType typeId="3cb23b9b-f69a-4afb-8aa2-5604b8304282" valueTypeId="24761741-175b-4a74-a8bb-6839d4f4d09b"/>
+    <refType typeId="eaa48bfc-7d94-43ef-b2ef-eeca907636a1" valueTypeId="8ed6b07e-4c67-4019-8d17-60ac5e6c59e7"/>
+    <selectionType typeId="e7b75487-cfab-4f0e-b5f5-2342c373fcab" valueTypeId="50266cc8-9cc8-49bd-8cbc-f5c177b2e51a"/>
+    <listType typeId="c8bcfd36-714d-4174-8844-9399cddb9f05" valueTypeId="a9f51fe0-e2e4-4489-a15b-1aa2e36a97b7"/>
+    <managerType typeId="3905683b-3964-4d3f-b5a2-b1c8b968ac21" valueTypeId="0dea6060-40ab-40cb-9126-96242dc3576f"/>
+  </producedTypes>
+  <name>Номенклатура</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+  </extension>
+  <useStandardCommands>true</useStandardCommands>
+  <checkUnique>true</checkUnique>
+</mdclass:Catalog>

@@ -50,6 +50,7 @@
   <catalogs>Catalog.Валюты</catalogs>
   <catalogs>Catalog.Склады</catalogs>
   <catalogs>Catalog.Штрихкоды</catalogs>
+  <catalogs>Catalog.Номенклатура</catalogs>
   <documents>Document.Расш1_Документ1</documents>
   <dataProcessors>DataProcessor.Расш1_Обработка1</dataProcessors>
 </mdclass:Configuration>
